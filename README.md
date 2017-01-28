@@ -25,3 +25,6 @@ func main() {
 ```
 ## License
 MIT.
+
+## Data License
+The OpenStreetMap data is provided under the terms of [Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl).
