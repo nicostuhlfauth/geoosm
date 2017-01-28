@@ -1,7 +1,7 @@
 # OpenStreetMap Geolocation in Golang
 This package provides access to Nominatim, a tool to search OSM data by name and address.
 ## Install
-Simply run **`go get nicostuhlfauth/go-geo-osm`**
+Simply run **`go get github.com/nicostuhlfauth/geoosm`**
 ## Use the package
 Example:
 ```Golang
@@ -12,7 +12,7 @@ import (
 
 	"log"
 
-	"github.com/nicostuhlfauth/go-geo-osm"
+	"github.com/nicostuhlfauth/geoosm"
 )
 
 func main() {
